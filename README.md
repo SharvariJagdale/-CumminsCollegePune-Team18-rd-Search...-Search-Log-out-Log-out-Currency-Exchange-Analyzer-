@@ -58,10 +58,14 @@
     <li>User-friendly interface for seamless navigation.</li>
     <li>Screenshots of the project:</li>
 </ul>
-<img src="screenshot1.png" alt="Screenshot 1" class="screenshot">
-<img src="screenshot2.png" alt="Screenshot 2" class="screenshot">
-<img src="screenshot3.png" alt="Screenshot 3" class="screenshot">
-
+<img src="Dashboard.png" alt="Screenshot 1" class="screenshot">
+<img src="ExchangeRate.png" alt="Screenshot 2" class="screenshot">
+<img src="Ex2.png" alt="Screenshot 3" class="screenshot">
+<img src="Ex3.png" alt="Screenshot 3" class="screenshot">
+<img src="Ex4.png" alt="Screenshot 3" class="screenshot">
+<img src="Conversion.png" alt="Screenshot 3" class="screenshot">
+<img src="Basket.png" alt="Screenshot 3" class="screenshot">
+<img src="risk.png" alt="Screenshot 3" class="screenshot">
 <h2 id="installation">Installation</h2>
 <p>To run this project locally, follow these steps:</p>
 <ol>
