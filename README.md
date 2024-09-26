@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<h1>Currency Exchange Rate Dashboard</h1>
+<h1>Currency Exchange Rate Analyzer</h1>
 
 <h2>Table of Contents</h2>
 <ul>
