@@ -3,7 +3,33 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
+    <title>Currency Exchange Rate Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            padding: 20px;
+            background-color: #f9f9f9;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        code {
+            background-color: #eee;
+            padding: 2px 4px;
+            border-radius: 4px;
+        }
+        .screenshot {
+            max-width: 100%;
+            height: auto;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin: 10px 0;
+        }
+    </style>
 </head>
 <body>
 
@@ -30,7 +56,11 @@
     <li>Highlight the date when the exchange rate reached its highest and lowest points.</li>
     <li>Print the exchange rate data in a chart format.</li>
     <li>User-friendly interface for seamless navigation.</li>
+    <li>Screenshots of the project:</li>
 </ul>
+<img src="screenshot1.png" alt="Screenshot 1" class="screenshot">
+<img src="screenshot2.png" alt="Screenshot 2" class="screenshot">
+<img src="screenshot3.png" alt="Screenshot 3" class="screenshot">
 
 <h2 id="installation">Installation</h2>
 <p>To run this project locally, follow these steps:</p>
